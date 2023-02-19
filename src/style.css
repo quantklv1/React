@@ -1,0 +1,128 @@
+h1 {
+  font-family: Lato;
+  letter-spacing: 4px;
+}
+h4 {
+  text-transform: capitalize;
+}
+
+p {
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+.btn.btn-danger {
+  letter-spacing: 5px;
+}
+h2 {
+  letter-spacing: 5px;
+}
+
+.header {
+  text-align: center;
+  color: white;
+  background-color: deepskyblue;
+  padding: 10px;
+}
+
+.input-span {
+  font-size: 14;
+  color: deepskyblue;
+  padding: 5px;
+  position: relative;
+  bottom: 10px;
+}
+
+.input-group {
+  margin: 5px 0px 5px 0px;
+}
+
+.todo-view {
+  padding: 20px 10px 30px 10px;
+  border-style: outset;
+}
+
+.img-list {
+  padding: 10px;
+  background-color: deepskyblue;
+  width: 90px;
+  margin: 0px;
+  border-radius: 10px;
+  position: relative;
+  bottom: 40px;
+  right: 60px;
+  display: block;
+}
+
+.add-item {
+  display: block;
+  float: left;
+  position: relative;
+  left: 110px;
+  font-size: 60;
+  color: darkgray;
+}
+
+.img-todo {
+  padding: 10px;
+  background-color: gold;
+  width: 90px;
+  margin: 0px;
+  border-radius: 10px;
+  position: relative;
+  bottom: 40px;
+  right: 60px;
+  display: block;
+}
+
+.todo-item {
+  display: block;
+  float: left;
+  position: relative;
+  left: 120px;
+  font-size: 60;
+  color: darkgray;
+}
+
+.todo-list {
+  padding-top: 20px;
+  border-style: outset;
+  margin: 10px;
+  margin-top: 50px;
+}
+
+#todo-id {
+  position: relative;
+  bottom: 30px;
+}
+
+.img-complete {
+  padding: 10px;
+  background-color: forestgreen;
+  width: 90px;
+  margin: 0px;
+  border-radius: 10px;
+  position: relative;
+  bottom: 40px;
+  right: 70px;
+  display: block;
+}
+
+.todo-complete {
+  display: block;
+  float: left;
+  position: relative;
+  left: 125px;
+  font-size: 60;
+  color: darkgray;
+}
+
+.complete-view {
+  padding-top: 20px;
+  border-style: outset;
+  margin: 10px;
+  margin-top: 50px;
+}
+
+.tick-img {
+  width: 20px;
+}
